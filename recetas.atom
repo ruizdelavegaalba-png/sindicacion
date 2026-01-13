@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
     <title>Recetas veganas fáciles</title>
-    <link href="https://www.recetasveganasfaciles.com/"/>
+    <link href="http://www.recetasveganasfaciles.com/"/>
     <updated>2026-01-13T12:00:00Z</updated>
-    <id>"https://www.recetasveganasfaciles.com/"</id>
+    <id>http://www.recetasveganasfaciles.com/</id>
     <author>
         <name>Recetas veganas fáciles</name>
     </author>
     <entry>
         <title>Ensalada de garbanzos</title>
-        <link href="https://www.recetasveganasfaciles.com/ensalada-garbanzos"/>
-        <id>https://www.recetasveganasfaciles.com/ensalada-garbanzos"</id>
+        <link href="http://www.recetasveganasfaciles.com/ensalada-garbanzos"/>
+        <id>http://www.recetasveganasfaciles.com/ensalada-garbanzos</id>
         <updated>2026-01-13T08:00:00Z</updated>
         <summary>Una ensalada de garbanzos, tomate, pepino y un roque de limón.</summary>
     </entry>
     <entry>
         <title>Batido de plátano y avena</title>
-        <link href="https://www.recetasveganasfaciles.com/batido-platano-avena"/>
-        <id>https://www.recetasveganasfaciles.com/batido-platano.avena"</id>
+        <link href="http://www.recetasveganasfaciles.com/batido-platano-avena"/>
+        <id>http://www.recetasveganasfaciles.com/batido-platano.avena</id>
         <updated>2026-01-13T09:00:00Z</updated>
         <summary>Un batido para el desayuno:  plátano, avena y leche vegatal.</summary>
     </entry>
     <entry>
         <title>Tacos de lentejas</title>
-        <link href="https://www.recetasveganasfaciles.com/tacos-lentejas"/>
-        <id>https://www.recetasveganasfaciles.com/tacos-lentejas"</id>
+        <link href="http://www.recetasveganasfaciles.com/tacos-lentejas"/>
+        <id>http://www.recetasveganasfaciles.com/tacos-lentejas</id>
         <updated>2026-01-13T10:00:00Z</updated>
         <summary>Tacos rellenos de lentejas y verduras frescas.</summary>
     </entry>
